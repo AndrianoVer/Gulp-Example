@@ -1,0 +1,33 @@
+{
+  "name": "gulp-hw",
+  "version": "1.0.0",
+  "homepage": "https://andrianover.github.io/AndrianoVer.github.io-HW10-GULP/",
+  "description": "Gulp-Tasks",
+  "main": "index.js",
+  "scripts": {
+	"test": "Default task",
+	"deploy": "gh-pages -d dist"
+  },
+  "author": "Andrew Verbitsky",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "i": "^0.3.6",
+    "npm": "^6.9.0"
+  },
+  "dependencies": {}
+}
