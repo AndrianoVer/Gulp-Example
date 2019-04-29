@@ -1,7 +1,7 @@
 {
   "name": "gulp-hw",
   "version": "1.0.0",
-  "homepage": "https://andrianover.github.io/AndrianoVer.github.io-HW10-GULP/",
+  "homepage": "https://andrianover.github.io/AndrianoVer.github.io-HW-10-Gulp/",
   "description": "Gulp-Tasks",
   "main": "index.js",
   "scripts": {
